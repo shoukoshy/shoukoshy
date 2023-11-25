@@ -31,12 +31,12 @@
 ## 💪 Team:
  - I don't have a team right now. I'm just a single programmer.
 
-## 🗓️ My data:
+## 🔥 My data:
   ### 🏆 Trophy:
    [![trophy](https://github-profile-trophy.vercel.app/?username=shoukoshy&theme=gruvbox&column=8&row=1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
   ### 🏹 Streak:
   [![GitHub Streak](https://streak-stats.demolab.com?user=shoukoshy&theme=gruvbox&border_radius=10&card_width=500)](https://git.io/streak-stats)
-  ### 📅 Stats:
+  ### 📝 Stats:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-sigma-two-66.vercel.app/api?username=shoukoshy&show_icons=true&theme=gruvbox" />
   </a>
