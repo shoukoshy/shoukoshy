@@ -37,8 +37,14 @@
   ### 🏹 Streak:
   [![GitHub Streak](https://streak-stats.demolab.com?user=shoukoshy&theme=gruvbox&border_radius=10&card_width=500)](https://git.io/streak-stats)
   ### 📅 Stats:
-  [![Anurag's GitHub stats](https://github-readme-stats-nine-theta-72.vercel.app/api?username=shoukoshy&show_icons=true&theme=gruvbox&card_width=500)](https://github.com/anuraghazra/github-readme-stats) <br>
-  [![Top Langs](https://github-readme-stats-nine-theta-72.vercel.app/api/top-langs/?username=shoukoshy&langCount=6&theme=gruvbox&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-nine-theta-72.vercel.app/api?username=shoukoshy&show_icons=true&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-nine-theta-72.vercel.app/api/top-langs/?username=shoukoshy&langCount=6&theme=gruvbox&layout=donut" />
+  </a>
 
 ## ✨ Typical projects:
  
