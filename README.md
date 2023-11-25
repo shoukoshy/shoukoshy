@@ -33,7 +33,7 @@
 
 ## 🗓️ My data:
   ### 🏆 Trophy:
-   [![trophy](https://github-profile-trophy.vercel.app/?username=shoukoshy&theme=gruvbox&column=7&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=shoukoshy&theme=gruvbox&column=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
   ### 🏹 Streak:
   [![GitHub Streak](https://streak-stats.demolab.com?user=shoukoshy&theme=gruvbox&border_radius=10&card_width=500)](https://git.io/streak-stats)
   ### 📅 Stats:
