@@ -37,20 +37,18 @@
   ### 🏹 Streak:
   [![GitHub Streak](https://streak-stats.demolab.com?user=shoukoshy&theme=gruvbox&border_radius=10&card_width=500)](https://git.io/streak-stats)
   ### 📅 Stats:
-  
-
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-nine-theta-72.vercel.app/api?username=shoukoshy&show_icons=true&theme=gruvbox" />
+    <img height=200 align="center" src="https://github-readme-stats-sigma-two-66.vercel.app/api?username=shoukoshy&show_icons=true&theme=gruvbox" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-nine-theta-72.vercel.app/api/top-langs/?username=shoukoshy&langCount=6&theme=gruvbox&layout=donut" />
+    <img height=200 align="center" src="https://github-readme-stats-sigma-two-66.vercel.app/api/top-langs/?username=shoukoshy&langCount=6&theme=gruvbox&layout=donut&size_weight=0.5&count_weight=0.5" />
   </a>
 
 ## ✨ Typical projects:
  
  <div align="center">
   
-  [![dotfile](https://github-readme-stats-nine-theta-72.vercel.app/api/pin/?username=shoukoshy&repo=dotfile&show_owner=true&theme=gruvbox)](https://github.com/shoukoshy/dotfile)
+  [![dotfile](https://github-readme-stats-sigma-two-66.vercel.app/api/pin/?username=shoukoshy&repo=dotfile&show_owner=true&theme=gruvbox)](https://github.com/shoukoshy/dotfile)
  
  </div>
 
