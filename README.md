@@ -59,4 +59,4 @@
 
 ## ✉️ Contact:
  - [Facebook](https://www.facebook.com/manhtran.shoukoshy "Personal Facebook")
- - [Email](mailto:manhtran050805@gmail.com "Personal Email")
+ - [Email](mailto:manhtq0508@gmail.com "Personal Email")
