@@ -44,13 +44,16 @@
     <img height=200 align="center" src="https://github-readme-stats-sigma-two-66.vercel.app/api/top-langs/?username=shoukoshy&langCount=6&theme=gruvbox&layout=donut&size_weight=0.5&count_weight=0.5" />
   </a>
 
+<!---
 ## ✨ Typical projects:
  
- <div align="center">
-  
-  [![dotfile](https://github-readme-stats-sigma-two-66.vercel.app/api/pin/?username=shoukoshy&repo=dotfile&show_owner=true&theme=gruvbox)](https://github.com/shoukoshy/dotfile)
- 
- </div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+-->
 
 ## 🎯 My goal:
  > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler <br>
